@@ -1,5 +1,6 @@
-# HomeWork 1 JavaScript contains 3 tasks:
+# HomeWork 2 JavaScript contains 3 tasks:
 
-- task1: Function to calculate total price of ordered droids.
-- task2: Function that calculate totalPrice and print message to user.
-- task3: Function to calculate the width of an element with box-sizing: border-box.
+- task1: Function to check if customer can pay the order.
+- task2: Function that ensures the the maxLength of the message.
+- task3: Function to check the spam words in a given message.
+- task4: Function to determine the shipping cost depending on the country's value
