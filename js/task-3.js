@@ -1,7 +1,6 @@
 // Function to check the spam words in a given message
 function checkForSpam(message) {
-    messageToLower = message.toLowerCase();
-    console.log(messageToLower);
+    const messageToLower = message.toLowerCase();
     if (messageToLower.includes('spam') || messageToLower.includes('sale')) {
         return true;
     } else {
